@@ -24,6 +24,8 @@ Toutes les versions : [page des versions](https://github.com/ahauss51-hash/macro
 2. Ferme le logiciel Stream Dock s'il est installé.
 3. Branche le 293S et lance **`Macropad.exe`**. Rien d'autre à installer (pas besoin de Python).
 
+Macropad arrive avec une disposition prête à l'emploi (pages, dossiers et touches SolidWorks, pavé numérique). Tu peux tout modifier ensuite dans l'éditeur.
+
 Si Windows affiche « Windows a protégé votre ordinateur » : « Informations complémentaires » → « Exécuter quand même ».
 
 ## Compatibilité
