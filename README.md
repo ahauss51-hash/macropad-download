@@ -36,7 +36,11 @@ Si Windows affiche « Windows a protégé votre ordinateur » : « Informations 
 
 ## Mettre à jour
 
-Dans Macropad : **Réglages (⚙) → Mise à jour → Installer une mise à jour…** puis choisis le fichier `app.zip` de la nouvelle version. Ta disposition et tes réglages sont conservés.
+Si Macropad est déjà installé, pas besoin de tout retélécharger :
+
+1. Télécharge **[app.zip (dernière mise à jour)](https://github.com/ahauss51-hash/macropad-download/releases/latest/download/app.zip)**.
+2. Dans Macropad : **Réglages (⚙) → Mise à jour → Installer une mise à jour…**, puis choisis ce `app.zip`.
+3. Macropad redémarre sur la nouvelle version. Ta disposition et tes réglages sont conservés.
 
 ## Avis et retours
 
